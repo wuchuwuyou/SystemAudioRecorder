@@ -1,0 +1,3 @@
+"CFBundleName" = "System Audio Recorder";
+"CFBundleDisplayName" = "System Audio Recorder";
+"NSAudioCaptureUsageDescription" = "All computer playback is recorded. No microphone. Local WAV files only; no audio is uploaded.";
